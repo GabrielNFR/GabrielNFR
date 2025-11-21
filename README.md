@@ -8,5 +8,5 @@
 ---
 
 ### 📊 Atividade
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielNFR&show_icons=true&theme=transparent&count_private=true&hide_border=true&title_color=000&text_color=000&icon_color=000" />
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNFR&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=000&hide=jupyter%20notebook,html,css" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielNFR&show_icons=true&theme=dark&count_private=true&hide_border=true" />
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNFR&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css" />
