@@ -14,3 +14,11 @@
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielNFR&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook,html,css" />
 <br/>
 <img src="https://github-contributor-stats.vercel.app/api?username=GabrielNFR&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+
+--- 
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielNFR&theme=dark" alt="GitHub Streak" />
+</p>
+
